@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: #0D1B2A;
+    background-color: #E0E1DD;
+}
+
+h2 {
+    color: #415A77;
+}
+
+p {
+    font-size: 1.15rem;
+}
+
+.boton {
+    background-color: #1B263B;
+    color: #E0E1DD;
+}
+
+.boton:hover {
+    background-color: #778DA9;
+    color: #1B263B;
+}
