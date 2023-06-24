@@ -24,3 +24,21 @@ p {
     background-color: #778DA9;
     color: #1B263B;
 }
+.clouds {
+    background-image: url("/img/clouds.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clear {
+    background-image: url("/img/clear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rain {
+    background-image: url("/img/rain.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-weight: 600;
+}
