@@ -42,3 +42,15 @@ p {
 
     font-weight: 600;
 }
+
+.snow {
+    background-image: url("/img/snow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-weight: 600;
+}
+
+.bg-blanco {
+    background-color: #e0e1dd94;
+}
